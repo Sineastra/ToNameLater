@@ -22,6 +22,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/_components/LangSwitcher.jsx", "src/app/_components/FooterBase.jsx", "src/app/_components/Client.jsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/_components/LangSwitcher.jsx", "src/app/_components/FooterBase.jsx", "src/app/_components/Client.jsx", "postcss.config.cjs"],
   "exclude": ["node_modules"]
 }
