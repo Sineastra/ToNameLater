@@ -1,4 +1,4 @@
-import ThemeSwitcher from "./_components/ThemeSwitcher";
+import ThemeSwitcher from "../_components/ThemeSwitcher";
 
 const TopHeader = () => {
 	return <ThemeSwitcher />;
